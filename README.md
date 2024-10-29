@@ -19,13 +19,18 @@ This project aims to predict whether a player will be an NBA All-Star based on t
 ## Results
 Among the players that played in college from the 2021-2024 seasons, the following are predicted to be All-Stars with a threshold of 0.2:
 
-| Player               | Probability | Prediction |
-|----------------------|-------------|------------|
-| Zach Edey            | 0.6732      | 1          |
-| Kofi Cockburn        | 0.331       | 1          |
-| Keegan Murray        | 0.3108      | 1          |
-| Oscar Tshiebwe       | 0.2713      | 1          |
-| Trayce Jackson-Davis | 0.232       | 1          |
-| Keyonte George       | 0.2257      | 1          |
-| Cam Thomas           | 0.2232      | 1          |
-| Dillon Jones         | 0.211       | 1          |
+| Player          | Probability | Prediction |
+|-----------------|-------------|------------|
+| Jamir Watkins   | 0.312       | 1          |
+| Keegan Murray   | 0.258       | 1          |
+| Zach Edey       | 0.256       | 1          |
+| Jalen Slawson   | 0.224       | 1          |
+| David Jones     | 0.218       | 1          |
+| Jaden Ivey      | 0.218       | 1          |
+| Paolo Banchero*  | 0.214       | 1          |
+| Cade Cunningham | 0.212       | 1          |
+| Evan Mobley     | 0.208       | 1          |
+| Zach Edey**       | 0.208       | 1          |
+
+*: Already an All-Star
+**: Participated in multiple combines so listed twice
