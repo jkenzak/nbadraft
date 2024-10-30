@@ -17,21 +17,14 @@ This project aims to predict whether a player will be an NBA All-Star based on t
 * [Wikipedia](https://en.wikipedia.org/wiki/List_of_NBA_All-Stars): List of All-Stars
 
 ## Results
-Among the players that played in college from the 2021-2024 seasons, the following are predicted to be All-Stars with a threshold of 0.2:
+Among the players that played in college from the 2021-2024 seasons, the following are predicted to be All-Stars with a threshold of 0.5:
 
-| Player          | Probability | Prediction |
-|-----------------|-------------|------------|
-| Jamir Watkins   | 0.312       | 1          |
-| Keegan Murray   | 0.258       | 1          |
-| Zach Edey       | 0.256       | 1          |
-| Jalen Slawson   | 0.224       | 1          |
-| David Jones     | 0.218       | 1          |
-| Jaden Ivey      | 0.218       | 1          |
-| Paolo Banchero*  | 0.214       | 1          |
-| Cade Cunningham | 0.212       | 1          |
-| Evan Mobley     | 0.208       | 1          |
-| Zach Edey**       | 0.208       | 1          |
+| Player          | Probability        | Prediction |
+|-----------------|--------------------|------------|
+| Jaden Ivey      | 0.69 | 1          |
+| Cade Cunningham | 0.64 | 1          |
+| Paolo Banchero*  | 0.54   | 1          |
+| Zach Edey       | 0.52 | 1          |
+| Keyonte George  | 0.50 | 1          |
 
 *: Already an All-Star
-
-**: Participated in multiple combines so listed twice
