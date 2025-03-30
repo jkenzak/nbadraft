@@ -8,7 +8,7 @@ This project uses NCAA player statistics and NBA Draft Combine measurements to p
 - **Train a Random Forest Classifier** to predict All-Star status
 - **Assist NBA Front Offices** by generating actionable insights and rankings for draft prospects
 
-## 📊 Data Sources
+## Data Sources
 - [NBA Advanced Stats](https://www.nba.com/stats/players/advanced): Combine measurements (2000–2024)
 - [RealGM](https://basketball.realgm.com/ncaa): NCAA player statistics (2003–2024)
 - [Wikipedia](https://en.wikipedia.org/wiki/List_of_NBA_All-Stars): All-Star selections
